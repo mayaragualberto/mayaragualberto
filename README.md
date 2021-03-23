@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## :woman: About me 
-Apaixonada por vocêeeeeeeeeeeeeeeeeeeeee
+I have a degree in mechanical engineering and I love technology. I'm always looking for new skills :eyeglasses:
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=#3776AB&logoColor=white&color=B0C4DE)
@@ -14,7 +14,7 @@ Apaixonada por vocêeeeeeeeeeeeeeeeeeeeee
 ![](https://img.shields.io/badge/Design-Illustrator-informational?style=flat&logo=#FF9A00&logoColor=white&color=B0C4DE)
 ![](https://img.shields.io/badge/Design-Photoshop-informational?style=flat&logo=#31A8FF&logoColor=white&color=B0C4DE)
 
-
+## :memo: GitHub Stats
 <a href="https://github.com/mayaragualberto/mayaragualberto">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayaragualberto&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
