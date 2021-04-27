@@ -14,6 +14,8 @@ I have a degree in mechanical engineering and I love technology. I'm always look
 ![](https://img.shields.io/badge/Design-Illustrator-informational?style=flat&logo=#FF9A00&logoColor=white&color=B0C4DE)
 ![](https://img.shields.io/badge/Design-Photoshop-informational?style=flat&logo=#31A8FF&logoColor=white&color=B0C4DE)
 
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?mayaragualberto" frameborder="0"></iframe>
+
 ## :memo: GitHub Stats
 <a href="https://github.com/mayaragualberto/mayaragualberto">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayaragualberto&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -23,7 +25,7 @@ I have a degree in mechanical engineering and I love technology. I'm always look
 </a>
 
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?mayaragualberto" frameborder="0"></iframe>
+
 
 <!--
 **mayaragualberto/mayaragualberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
