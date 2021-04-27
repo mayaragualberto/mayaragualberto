@@ -13,8 +13,6 @@ I have a degree in mechanical engineering and I love technology. I'm always look
 
 <a href="https://www.linkedin.com/in/mayara-gualberto-70b96a118/">
   <img align="left" alt="MayaraGualberto LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 
 
 ## 📲 Contact
@@ -41,7 +39,7 @@ I have a degree in mechanical engineering and I love technology. I'm always look
 </a>
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayaragualberto&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
+
 
 ## :memo: Wakatime Stats
 <!--START_SECTION:waka-->
