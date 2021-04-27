@@ -4,7 +4,6 @@
 I have a degree in mechanical engineering and I love technology. I'm always looking for new skills :eyeglasses: 
 
 ## 📲 Contact
-
 <a href="https://discord.com/channels/@me">
   <img align="left" alt="MayaraGualberto Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -17,11 +16,7 @@ I have a degree in mechanical engineering and I love technology. I'm always look
   <img align="left" alt="MayaraGualberto LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> 
 
-
-
-
-
-
+<br />
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=#3776AB&logoColor=white&color=B0C4DE)
@@ -34,15 +29,12 @@ I have a degree in mechanical engineering and I love technology. I'm always look
 ![](https://img.shields.io/badge/Design-Illustrator-informational?style=flat&logo=#FF9A00&logoColor=white&color=B0C4DE)
 ![](https://img.shields.io/badge/Design-Photoshop-informational?style=flat&logo=#31A8FF&logoColor=white&color=B0C4DE)
 
-
-
 ## :memo: GitHub Stats
 <a href="https://github.com/mayaragualberto/mayaragualberto">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayaragualberto&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayaragualberto&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-
 
 ## :memo: Wakatime Stats
 <!--START_SECTION:waka-->
