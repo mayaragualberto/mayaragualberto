@@ -30,7 +30,7 @@ I have a degree in mechanical engineering and I love technology. I'm always look
 </a>
 
 <!--START_SECTION:waka-->
-[![mayaragualberto's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mayaragualberto)](https://github.com/anuraghazra/github-readme-stats)
+[![mayaragualberto's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mayaragualberto)](https://github.com/mayaragualberto/github-readme-stats)
 <!--END_SECTION:waka-->
 
 <!--
