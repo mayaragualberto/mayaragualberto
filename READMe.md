@@ -1,7 +1,21 @@
-### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![](https://visitor-badge.glitch.me/badge?page_id=mayaragualberto.mayaragualberto)
 
-## :woman: About me 
-I have a degree in mechanical engineering and I love technology. I'm always looking for new skills :eyeglasses:
+## :woman: About me                
+I have a degree in mechanical engineering and I love technology. I'm always looking for new skills :eyeglasses: 
+
+<a href="https://discord.com/channels/@me">
+  <img align="left" alt="MayaraGualberto Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+
+<a href="https://twitter.com/srtagualberto">
+  <img align="left" alt="MayaraGualberto | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+
+<a href="https://www.linkedin.com/in/mayara-gualberto-70b96a118/">
+  <img align="left" alt="MayaraGualberto LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+
 
 ## 📲 Contact
 
