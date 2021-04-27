@@ -1,7 +1,14 @@
-### Hi there 👋
+### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## :woman: About me 
 I have a degree in mechanical engineering and I love technology. I'm always looking for new skills :eyeglasses:
+
+## 📲 Contact
+
+![image]({https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white})
+![image]({https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white})
+![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
+
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=#3776AB&logoColor=white&color=B0C4DE)
@@ -14,7 +21,7 @@ I have a degree in mechanical engineering and I love technology. I'm always look
 ![](https://img.shields.io/badge/Design-Illustrator-informational?style=flat&logo=#FF9A00&logoColor=white&color=B0C4DE)
 ![](https://img.shields.io/badge/Design-Photoshop-informational?style=flat&logo=#31A8FF&logoColor=white&color=B0C4DE)
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?mayaragualberto" frameborder="0"></iframe>
+
 
 ## :memo: GitHub Stats
 <a href="https://github.com/mayaragualberto/mayaragualberto">
@@ -24,8 +31,8 @@ I have a degree in mechanical engineering and I love technology. I'm always look
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayaragualberto&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
-
-
+[![mayaragualberto's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mayaragualberto)](https://github.com/anuraghazra/github-readme-stats)
+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
 
 <!--
 **mayaragualberto/mayaragualberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
