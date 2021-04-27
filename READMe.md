@@ -3,6 +3,8 @@
 ## :woman: About me                
 I have a degree in mechanical engineering and I love technology. I'm always looking for new skills :eyeglasses: 
 
+## 📲 Contact
+
 <a href="https://discord.com/channels/@me">
   <img align="left" alt="MayaraGualberto Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -13,9 +15,10 @@ I have a degree in mechanical engineering and I love technology. I'm always look
 
 <a href="https://www.linkedin.com/in/mayara-gualberto-70b96a118/">
   <img align="left" alt="MayaraGualberto LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a> 
 
 
-## 📲 Contact
+
 
 
 
