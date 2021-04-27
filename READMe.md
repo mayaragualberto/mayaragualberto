@@ -5,9 +5,7 @@ I have a degree in mechanical engineering and I love technology. I'm always look
 
 ## 📲 Contact
 
-![image]({https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white})
-![image]({https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white})
-![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
+
 
 
 ## 🔧 Technologies & Tools
@@ -31,8 +29,9 @@ I have a degree in mechanical engineering and I love technology. I'm always look
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayaragualberto&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
+<!--START_SECTION:waka-->
 [![mayaragualberto's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mayaragualberto)](https://github.com/anuraghazra/github-readme-stats)
-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
+<!--END_SECTION:waka-->
 
 <!--
 **mayaragualberto/mayaragualberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
