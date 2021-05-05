@@ -24,10 +24,10 @@ I have a degree in mechanical engineering and I love technology. I'm always look
 ![](https://img.shields.io/badge/Code-C++-blue)
 ![](https://img.shields.io/badge/Code-C%23-blue)
 
-![](https://img.shields.io/badge/Design-SolidWorks-green)
-![](https://img.shields.io/badge/Design-Inventor-green)
-![](https://img.shields.io/badge/Design-Fusion360-green)
-![](https://img.shields.io/badge/Design-AutoCAD-green)
+![](https://img.shields.io/badge/Design-SolidWorks-yellow)
+![](https://img.shields.io/badge/Design-Inventor-yellow)
+![](https://img.shields.io/badge/Design-Fusion360-yellow)
+![](https://img.shields.io/badge/Design-AutoCAD-yellow)
 
 ![](https://img.shields.io/badge/Draw-Illustrator-orange)
 ![](https://img.shields.io/badge/Draw-Photoshop-orange)
