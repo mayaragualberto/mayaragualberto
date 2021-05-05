@@ -1,4 +1,4 @@
-### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+### Hello there 🖖🏾
 ![](https://visitor-badge.glitch.me/badge?page_id=mayaragualberto.mayaragualberto)
 
 ## :woman: About me                
@@ -45,6 +45,7 @@ I have a degree in mechanical engineering and I love technology. I'm always look
 [![mayaragualberto's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mayaragualberto)]()
 <!--END_SECTION:waka-->
 
+### That's all Folks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 <!--
 **mayaragualberto/mayaragualberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
