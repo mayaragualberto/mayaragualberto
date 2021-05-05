@@ -19,16 +19,19 @@ I have a degree in mechanical engineering and I love technology. I'm always look
 <br />
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=#3776AB&logoColor=white&color=B0C4DE)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=#007396&logoColor=white&color=B0C4DE)
-![](https://img.shields.io/badge/Code-C#-informational?style=flat&logo=#00599C&logoColor=white&color=B0C4DE)
+![](https://img.shields.io/badge/Code-Python-blue)
+![](https://img.shields.io/badge/Code-Java-blue)
+![](https://img.shields.io/badge/Code-C++-blue)
+![](https://img.shields.io/badge/Code-C%23-blue)
 
-![](https://img.shields.io/badge/Design-SolidWorks-informational?style=flat&logo=#19A974&logoColor=white&color=B0C4DE)
-![](https://img.shields.io/badge/Design-Inventor-informational?style=flat&logo=#19A974&logoColor=white&color=B0C4DE)
-![](https://img.shields.io/badge/Design-Fusion360-informational?style=flat&logo=#19A974&logoColor=white&color=B0C4DE)
-![](https://img.shields.io/badge/Design-AutoCAD-informational?style=flat&logo=#19A974&logoColor=white&color=B0C4DE)
-![](https://img.shields.io/badge/Design-Illustrator-informational?style=flat&logo=#FF9A00&logoColor=white&color=B0C4DE)
-![](https://img.shields.io/badge/Design-Photoshop-informational?style=flat&logo=#31A8FF&logoColor=white&color=B0C4DE)
+![](https://img.shields.io/badge/Design-SolidWorks-green)
+![](https://img.shields.io/badge/Design-Inventor-green)
+![](https://img.shields.io/badge/Design-Fusion360-green)
+![](https://img.shields.io/badge/Design-AutoCAD-green)
+
+![](https://img.shields.io/badge/Draw-Illustrator-orange)
+![](https://img.shields.io/badge/Draw-Photoshop-orange)
+![](https://img.shields.io/badge/Draw-GIMP-orange)
 
 ## :memo: GitHub Stats
 
