@@ -30,20 +30,14 @@ I have a degree in mechanical engineering and I love technology. I'm always look
 ![](https://img.shields.io/badge/Design-Photoshop-informational?style=flat&logo=#31A8FF&logoColor=white&color=B0C4DE)
 
 ## :memo: GitHub Stats
-<a href="https://github.com/mayaragualberto?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayaragualberto&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 
-<br />
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mayaragualberto&langs_count=5&theme=tokyonight)]()
 
-<a href="https://github.com/mayaragualberto?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayaragualberto&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a> 
-
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mayaragualberto&count_private=true&theme=tokyonight&showicons=true)]()
 
 ## :memo: Wakatime Stats
 <!--START_SECTION:waka-->
-[![mayaragualberto's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mayaragualberto)](https://github.com/anuraghazra/github-readme-stats)
+[![mayaragualberto's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mayaragualberto)]()
 <!--END_SECTION:waka-->
 
 <!--
