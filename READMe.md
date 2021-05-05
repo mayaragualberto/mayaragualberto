@@ -8,11 +8,13 @@ I have a degree in mechanical engineering and I love technology. I'm always look
   <img align="left" alt="MayaraGualberto Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
-<a href="https://twitter.com/srtagualberto">
+### <a href="https://twitter.com/srtagualberto">
   <img align="left" alt="MayaraGualberto | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-<a href="https://www.linkedin.com/in/mayara-gualberto-70b96a118/">
+<br />
+
+### <a href="https://www.linkedin.com/in/mayara-gualberto-70b96a118/">
   <img align="left" alt="MayaraGualberto LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> 
 
