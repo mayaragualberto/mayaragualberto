@@ -1,4 +1,5 @@
-### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![](https://visitor-badge.glitch.me/badge?page_id=mayaragualberto.mayaragualberto)
+### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+![](https://visitor-badge.glitch.me/badge?page_id=mayaragualberto.mayaragualberto)
 
 ## :woman: About me                
 I have a degree in mechanical engineering and I love technology. I'm always looking for new skills :eyeglasses: 
