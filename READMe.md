@@ -22,6 +22,7 @@ I have a degree in mechanical engineering and I love technology. I'm always look
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-blue)
 ![](https://img.shields.io/badge/Code-Java-blue)
+![](https://img.shields.io/badge/Code-MATLAB-blue)
 ![](https://img.shields.io/badge/Code-C++-blue)
 ![](https://img.shields.io/badge/Code-C%23-blue)
 
