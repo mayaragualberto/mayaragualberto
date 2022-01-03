@@ -30,6 +30,7 @@ I have a degree in mechanical engineering and I love technology. I'm always look
 ![](https://img.shields.io/badge/Design-Inventor-yellow)
 ![](https://img.shields.io/badge/Design-Fusion360-yellow)
 ![](https://img.shields.io/badge/Design-AutoCAD-yellow)
+![](https://img.shields.io/badge/Design-PTC_Creo-yellow)
 
 ![](https://img.shields.io/badge/Draw-Illustrator-orange)
 ![](https://img.shields.io/badge/Draw-Photoshop-orange)
