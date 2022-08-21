@@ -5,7 +5,7 @@
 I have a degree in mechanical engineering and I love technology. I'm always looking for new skills :eyeglasses: 
 
 ## 📲 Contact
-<a href="https://discord.com/channels/@me">
+### <a href="https://discord.com/channels/@me">
   <img align="left" alt="MayaraGualberto Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
