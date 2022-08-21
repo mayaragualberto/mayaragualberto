@@ -2,7 +2,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=mayaragualberto.mayaragualberto)
 
 ## :woman: About me                
-I have a degree in mechanical engineering and I love technology. I'm always looking for new skills :eyeglasses: 
+In 2019 I graduated in Mechanical Engineering and started to dedicate myself to programming. I'm studying Information Systems at UFF and I'm in the fifth semester, and I'm also studying web development with JavaScript, CSS, HTML and React.
 
 ## 📲 Contact
 ### <a href="https://discord.com/channels/@me">
@@ -21,6 +21,10 @@ I have a degree in mechanical engineering and I love technology. I'm always look
 ![](https://img.shields.io/badge/Code-Java-blue)
 ![](https://img.shields.io/badge/Code-C++-blue)
 ![](https://img.shields.io/badge/Code-C%23-blue)
+
+![](https://img.shields.io/badge/WEB-CSS-orange)
+![](https://img.shields.io/badge/WEB-HTML-orange)
+
 
 ![](https://img.shields.io/badge/Draw-Illustrator-orange)
 ![](https://img.shields.io/badge/Draw-Photoshop-orange)
