@@ -36,14 +36,18 @@ In 2019 I graduated in Mechanical Engineering and started to dedicate myself to 
 ![](https://img.shields.io/badge/CAD-AutoCAD-yellow)
 ![](https://img.shields.io/badge/CAD-PTC_Creo-yellow)
 
+<!--
 ## :memo: Wakatime Stats
-<!--START_SECTION:waka-->
 [![mayaragualberto's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mayaragualberto)]()
-<!--END_SECTION:waka-->
+-->
 
 ## :memo: GitHub Stats
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mayaragualberto&langs_count=5&theme=tokyonight)]() [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mayaragualberto&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mayaragualberto&langs_count=5&theme=tokyonight)]() 
+
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mayaragualberto&count_private=true&theme=tokyonight&showicons=true)]() 
+
 
 
 
