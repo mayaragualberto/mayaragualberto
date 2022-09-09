@@ -2,7 +2,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=mayaragualberto.mayaragualberto)
 
 ## :woman: About me                
-In 2019 I graduated in Mechanical Engineering and started to dedicate myself to programming. I'm studying Information Systems at UFF and I'm in the fifth semester, and I'm also studying web development with JavaScript, CSS, HTML and React.
+Estudante do 5º período de Sistemas de Informação. Desde sempre apaixonada por tecnologia, trabalhho há 10 anos com modelagem 3D com softwares CAD e há 2 anos iniciei a transição para TI. Atualmente me dedico a aprender mais sobre Desenvolvimento Web e Mobile.
 
 ## 📲 Contact
 ### <a href="https://discord.com/channels/@me">
