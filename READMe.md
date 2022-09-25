@@ -1,10 +1,10 @@
 ### Hello there 🖖🏾
 ![](https://visitor-badge.glitch.me/badge?page_id=mayaragualberto.mayaragualberto)
 
-## :woman: About me                
-Estudante do 5º período de Sistemas de Informação. Desde sempre apaixonada por tecnologia, trabalho há 10 anos com modelagem 3D com softwares CAD e há 2 anos iniciei a transição para TI. Atualmente me dedico a aprender mais sobre Desenvolvimento Web e Mobile.
+## :woman: Sobre mim                
+Estudante do 5º período de Sistemas de Informação. Desde sempre apaixonada por tecnologia, trabalho há 10 anos com modelagem 3D com softwares CAD e há 2 anos iniciei a transição para TI. Atualmente me dedico a aprender mais sobre Desenvolvimento Web e Mobile com Flutter.
 
-## 📲 Contact
+## 📲 Contato
 ### <a href="https://discord.com/channels/@me">
   <img align="left" alt="MayaraGualberto Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -15,7 +15,7 @@ Estudante do 5º período de Sistemas de Informação. Desde sempre apaixonada p
 
 <br />
 
-## 🔧 Technologies & Tools
+## 🔧 Habilidades
 ![](https://img.shields.io/badge/Code-JavaScript-blue)
 ![](https://img.shields.io/badge/Code-Python-blue)
 ![](https://img.shields.io/badge/Code-Java-blue)
@@ -36,10 +36,10 @@ Estudante do 5º período de Sistemas de Informação. Desde sempre apaixonada p
 ![](https://img.shields.io/badge/CAD-AutoCAD-yellow)
 ![](https://img.shields.io/badge/CAD-PTC_Creo-yellow)
 
-<!--
+
 ## :memo: Wakatime Stats
 [![mayaragualberto's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mayaragualberto)]()
--->
+
 
 ## :memo: GitHub Stats
 
@@ -54,17 +54,4 @@ Estudante do 5º período de Sistemas de Informação. Desde sempre apaixonada p
 
 
 ### That's all Folks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-<!--
-**mayaragualberto/mayaragualberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
