@@ -41,14 +41,14 @@ Atualmente me dedico a aprender mais sobre Desenvolvimento Web e Mobile com Flut
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayaragualberto&langs_count=5&theme=tokyonight" />
   </div>
 </div>
-
+<!---
 ## :memo: Wakatime Stats
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
     <a href="https://wakatime.com"><img src="https://wakatime.com/share/@mayaragualberto/18a11f75-74a4-4b59-9aea-27d8218889bc.png" /></a>
   </div>
 </div>
-
+-->
 <figure><embed src="https://wakatime.com/share/@mayaragualberto/4b9e7ea0-3377-493d-bc97-17fec8186614.svg"></embed></figure>
 
 ### That's all Folks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
