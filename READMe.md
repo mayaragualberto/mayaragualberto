@@ -23,7 +23,6 @@ Atualmente me dedico a aprender mais sobre Desenvolvimento Web e Mobile com Flut
     <img src="https://img.shields.io/badge/Framework-Flutter-red"/>
     <img src="https://img.shields.io/badge/BD-MySQL-ciano"/>
     <img src="https://img.shields.io/badge/BD-PostgreSQL-ciano"/>
-    <img src="https://img.shields.io/badge/RAD-PHPRunner-white"/>
     <img src="https://img.shields.io/badge/Draw-Figma-yellow"/>
     <img src="https://img.shields.io/badge/Draw-Illustrator-yellow"/>
     <img src="https://img.shields.io/badge/Draw-GIMP-yellow"/>
