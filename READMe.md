@@ -1,8 +1,7 @@
 ### Hello there 🖖🏾
 
 ## 👩🏾 Sobre mim                
-Estudante do 5º período de Sistemas de Informação na UFF. Sempre fui apaixonada por tecnologia, trabalho há 10 anos com modelagem 3D com softwares CAD e há 2 anos iniciei a transição para TI. 
-Atualmente me dedico a aprender mais sobre Desenvolvimento Web e Mobile com Flutter.
+Graduanda em Sistemas de Informação pela Universidade Federal Fluminense - Previsão de formação em Jul/2024. Pós-graduada em Engenharia de Produção e Gerenciamento de Projetos e Engenharia e Gerenciamento da Manutenção pela IBF Pós, bacharel em Engenharia Mecânica pelo Centro Universitário Jorge Amado. Possui cursos técnicos em Projetos Mecânicos e Edificações, ambos pelo SENAI. Possui conhecimentos nas áreas de projetos mecânicos e programação. Atualmente se dedica ao aperfeiçoamento em Desenvolvimento Web e Desenvolvimento Mobile com Flutter. 
 
 ## 📲 Contato
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mayara-gualberto-70b96a118/) 
