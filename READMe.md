@@ -1,7 +1,7 @@
 ### Hello there 🖖🏾
 
 ## 👩🏾 Sobre mim                
-Graduanda em Sistemas de Informação pela Universidade Federal Fluminense - Previsão de formação em Jul/2024. Pós-graduada em Engenharia de Produção e Gerenciamento de Projetos e Engenharia e Gerenciamento da Manutenção pela IBF Pós, bacharel em Engenharia Mecânica pelo Centro Universitário Jorge Amado. Possui cursos técnicos em Projetos Mecânicos e Edificações, ambos pelo SENAI. Possui conhecimentos nas áreas de robótica, projetos e programação. Atualmente se dedica ao aperfeiçoamento em Desenvolvimento Web e Desenvolvimento Mobile com Flutter. 
+Cursando Sistemas de Informação. Pós-graduada em Engenharia de Produção e Gerenciamento de Projetos e Engenharia e Gerenciamento da Manutenção, bacharel em Engenharia Mecânica. Possui cursos técnicos em Projetos Mecânicos e Edificações, ambos pelo SENAI. Possui conhecimentos nas áreas de robótica, projetos e programação. Atualmente se dedica ao aperfeiçoamento em Desenvolvimento Web, Desenvolvimento Mobile com Flutter e Análise de Elementos Finitos. 
 
 ## 📲 Contato
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mayara-gualberto-70b96a118/) 
@@ -9,6 +9,11 @@ Graduanda em Sistemas de Informação pela Universidade Federal Fluminense - Pre
 ## 🔧 Skills
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
+    <img src="https://img.shields.io/badge/CAD-SolidWorks-green"/>
+    <img src="https://img.shields.io/badge/CAD-Inventor-green"/>
+    <img src="https://img.shields.io/badge/CAD-Fusion360-green"/>
+    <img src="https://img.shields.io/badge/CAD-AutoCAD-green"/>
+    <img src="https://img.shields.io/badge/CAE-Ansys-green"/>
     <img src="https://img.shields.io/badge/Code-JavaScript-blue"/>
     <img src="https://img.shields.io/badge/Code-Python-blue"/>
     <img src="https://img.shields.io/badge/Code-Java-blue"/>
