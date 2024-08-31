@@ -1,7 +1,7 @@
 ### Hello there 🖖🏾
 
 ## 👩🏾 Sobre mim                
-Cursando Sistemas de Informação. Pós-graduada em Engenharia de Produção e Gerenciamento de Projetos e Engenharia e Gerenciamento da Manutenção, bacharel em Engenharia Mecânica. Possui cursos técnicos em Projetos Mecânicos e Edificações, ambos pelo SENAI. Possui conhecimentos nas áreas de robótica, projetos e programação. Atualmente se dedica ao aperfeiçoamento em Desenvolvimento Web, Desenvolvimento Mobile com Flutter e Análise de Elementos Finitos. 
+Cursando pós-graduação em Engenharia de Software. Bacharel em Sistemas de Informação e Engenharia Mecânica. Possui cursos técnicos em Projetos Mecânicos e Edificações. Possui conhecimentos nas áreas de robótica, projetos e programação. Atualmente se dedica ao aperfeiçoamento em Desenvolvimento Web, Desenvolvimento Mobile com Flutter e Análise de Elementos Finitos. 
 
 ## 📲 Contato
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mayara-gualberto-70b96a118/) 
